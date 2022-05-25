@@ -1,2 +1,3 @@
 # goit-markup-hw-01
-GOIT Homework
+
+HTML Layout
